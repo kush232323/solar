@@ -2196,7 +2196,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>© 2026 PBR Enterprises. All rights reserved.</span>
+        <span>© jjjjj 2026 PBR Enterprises. All rights reserved.</span>
         <span>Solar PMC • EV Charging • Cabling • Waste Management • MSW</span>
       </div>
     </footer>
